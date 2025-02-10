@@ -1,1 +1,1 @@
-python neurons/miner.py --netuid 2 --subtensor.chain_endpoint ws://127.0.0.1:9944 --wallet.name miner --wallet.hotkey default --logging.debug
+python neurons/miner.py --netuid 2 --subtensor.chain_endpoint ws://127.0.0.1:9944 --subtensor.network local --wallet.name miner --wallet.hotkey default --logging.debug
